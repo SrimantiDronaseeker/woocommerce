@@ -150,7 +150,7 @@
 * Dev - Fix price filtering when stored prices do not match displayed prices (determined by tax settings). #1612
 * Dev - HTML editing is no longer supported in several blocks. #1395
 * Dev - Implement __experimentalCreateInterpolateElement for translations. #1736
-* Dev - Load WooCommerce Core translations for 'Sale!' and some other strings if translations are unavailable for WooCommerce Blocks. #1694
+* Dev - Load WooCommerce Core translations for 'Subscribe!' and some other strings if translations are unavailable for WooCommerce Blocks. #1694
 * Dev - Prevent data hydration on REST requests #2176
 * Dev - Show relationship between terms in the active filters block. #1630
 * Dev - Table creation validation for install routine #2287
